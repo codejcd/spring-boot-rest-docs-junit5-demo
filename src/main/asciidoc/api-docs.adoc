@@ -1,0 +1,59 @@
+ Demo Project API 명세 (Spring REST Docs)
+
+== getUserInfoById
+​
+Curl request
+
+include::{snippets}/get-user-info-by-id/curl-request.adoc[]
+​
+HTTP request
+​
+include::{snippets}/get-user-info-by-id/http-request.adoc[]
+
+Path Parameter
+
+include::{snippets}/get-user-info-by-id/path-parameters.adoc[]
+
+HTTP Response
+​
+include::{snippets}/get-user-info-by-id/http-response.adoc[]
+​
+Response Fields
+
+include::{snippets}/get-user-info-by-id/response-fields.adoc[]
+​
+Request Body
+​
+include::{snippets}/get-user-info-by-id/request-body.adoc[]
+​
+Response Body
+​
+include::{snippets}/get-user-info-by-id/response-body.adoc[]
+
+
+== registUserInfo
+​
+Curl Request
+​
+include::{snippets}/regist-user-info/curl-request.adoc[]
+​
+HTTP Request
+​
+include::{snippets}/regist-user-info/http-request.adoc[]
+
+
+HTTP Response
+​
+include::{snippets}/regist-user-info/http-response.adoc[]
+
+Response Fields
+
+include::{snippets}/regist-user-info/response-fields.adoc[]
+​
+Request Body
+​
+include::{snippets}/regist-user-info/request-body.adoc[]
+​
+Response Body
+​
+include::{snippets}/regist-user-info/response-body.adoc[]
